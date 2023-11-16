@@ -19,7 +19,7 @@ text = """
 
 pd.read_fwf(StringIO(text),names=range(9))
 ```
-
+Output:
 ```
  	0 	1 	2 	3 	4 	5 	6 	7 	8
 0 	NaN 	[S] 	[C] 	NaN 	NaN 	[Z] 	NaN 	NaN 	NaN
