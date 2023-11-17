@@ -1,4 +1,4 @@
-* #### There's a helpful utility to convert a 'fixed width formatted' string into a Pandas Dataframe. 
+* #### Convert a 'fixed width formatted' string into a Pandas Dataframe. 
 
 
 ```
